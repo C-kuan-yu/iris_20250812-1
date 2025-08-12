@@ -1,0 +1,7 @@
+st.title("元件練習")
+#st.write("1122334455")
+#st.write("# 大標題")
+st.write("## 標題")
+st.info("ABC")
+a = 100
+st.write(a*100)
